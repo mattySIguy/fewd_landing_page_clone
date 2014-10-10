@@ -7,12 +7,12 @@ div{
 
 /* Navigation Section */
 .top-navigation {
-	background-color: #ffffff;
-	border: 1px solid Blue;
+    background-color: #fff;
+    border: 1px solid Blue;
 }
-
 .top-navigation > .content {
-	width: 970px;
-	height: 70px:
-	margin: 0 auto;
+    width: 970px;
+    height: 70px;
+    margin: 0 auto;
+    ;
 }
